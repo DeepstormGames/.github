@@ -1,5 +1,4 @@
-# Deepstorm Games
-
+![logo](./DeepstormLogo.png)
 [![GitHub Org Members](https://img.shields.io/badge/Community-1K%2B%20Members-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com)
 [![Roblox Visits](https://img.shields.io/badge/Roblox-500K%2B%20Visits-success?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com)
 

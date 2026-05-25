@@ -9,8 +9,7 @@ Welcome to the official GitHub Organization for **Deepstorm**! We are an indepen
 ### [🚀] What We're Building
 
 * **Lightweight Systems:** Modular Luau frameworks optimizing replication, custom pathfinding, and fast-paced asset streaming.
-* **Immersive Mechanics:** Advanced environmental interaction frameworks (ladders, custom physical ziplines, dynamic storage/hiding systems).
-* **:** Algorithmic lighting controls, procedural audio engines, and custom entity AI states.
+* **Immersive and Innovative Experiences:** Combining both technical systems with gameplay-driven design.
 
 ---
 

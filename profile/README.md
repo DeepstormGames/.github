@@ -45,7 +45,7 @@ Welcome to the official GitHub Organization for **Deepstorm**! We are an indepen
 
 * **Environment & Tooling:** [Rojo](https://rojo.space/) for file-syncing, VS Code, and Git source control.
 * **Languages:** Luau (Roblox Luau Engine)
-* **CI/CD Pipeline:** GitHub Actions, [Lune](https://lune-org.github.io/lune/) scripts, and automated Wally package updates.
+* **CI/CD Pipeline:** GitHub Actions, and automated Wally package updates.
 * **Code Quality:** Selene for static analysis/linting and StyLua for strict architectural formatting.
 
 ---

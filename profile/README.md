@@ -5,14 +5,14 @@
 <p align="center">
   <a href="https://www.roblox.com">
     <img 
-      src="https://img.shields.io/badge/Members-1K-lightgray?style=for-the-badge&logo=roblox&logoColor=white" 
+      src="https://img.shields.io/badge/Members-1K%2B-lightgray?style=for-the-badge&logo=roblox&logoColor=white" 
       alt="Community 1K+ Members"
     />
   </a>
   
   <a href="https://www.roblox.com">
     <img 
-      src="https://img.shields.io/badge/Visits-500K-lightgray?style=for-the-badge&logo=roblox&logoColor=white" 
+      src="https://img.shields.io/badge/Visits-500K%2B-lightgray?style=for-the-badge&logo=roblox&logoColor=white" 
       alt="Roblox 500K+ Visits"
     />
   </a>

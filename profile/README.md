@@ -59,6 +59,6 @@ Welcome to the official GitHub Organization for **Deepstorm**! We are an indepen
 
 ### [📡] Connect With Us
 
-* **Roblox Group:** [Join the Deepstorm Group (1K+ Members)](https://www.roblox.com/communities/34496968/DeepStorm#!/about)
-* **Official Experiences:** [Play our Games (500K+ Visits)](https://www.roblox.com)
+* **Roblox Community:** [Join the Community](https://www.roblox.com/communities/34496968/DeepStorm#!/about)
+* **Official Experiences:** [Play our Games](https://www.roblox.com)
 * **Developer Updates:** Follow this GitHub Organization to watch our open-source tools evolve.
